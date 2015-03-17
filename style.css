@@ -1,0 +1,8 @@
+body > div {
+    margin: 10px auto;
+}
+
+body > div * {
+    text-align: center;
+    margin: auto;
+}
